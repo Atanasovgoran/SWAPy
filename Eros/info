@@ -1,0 +1,246 @@
+{
+  "uuid": "2e63a468ab2b4f3a8231f08473f142f5",
+  "path": "Offline/Swap Plate",
+  "name": "Swap Plate",
+  "content": "",
+  "created_at": "2020-12-17 01:50:00",
+  "updated_at": "2020-12-24 23:25:54",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "70be42d78a458c1a60d77dc45e5ddfbd",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4c53600b58574e868975c036e8bba2e6": 1,
+        "6549a78ed9b4499ebac2fa5e649d77b2": 1,
+        "983fca3d4b2941b1849b2b47980fb938": 3,
+        "5b063653edb4403fbb25d04df4dfe1f3": 1,
+        "b91e0fad60ea412b8fde212c54574afc": 5,
+        "a81b7dd38cf04247a959751b4810938c": 2,
+        "b6a49f98145e4b278d0501166fa2d0e2": 1,
+        "bb009484ef804a24ac5d18c54b249586": 2,
+        "b756538d5bb946159b70a51be37a83b3": 2,
+        "dedd8d19d288cc4b434967eda0df580a": 1,
+        "a540216703be4d21bbba121087c5a68a": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DB25",
+          1,
+          "DB25-VIA",
+          "DB25",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "349e8172078742d18646c40b6a83a435",
+            "uuid": "4c53600b58574e868975c036e8bba2e6"
+          }
+        ],
+        [
+          "TERMINAL_2P/2.54",
+          1,
+          "5.08-2P_SCREW_TERMINAL",
+          "P1",
+          {
+            "BOM_Manufacturer Part": "Screw terminal 2p",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "5c85a77c0f4642bebbabbbc790cc8868",
+            "uuid": "5b063653edb4403fbb25d04df4dfe1f3"
+          }
+        ],
+        [
+          "DC_DC_MINI_360_CB",
+          3,
+          "MINI_360_CB2",
+          "STEPPED,5V,3.3V",
+          {
+            "BOM_Manufacturer Part": "Grobbling Sphincter",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer": "Arse End Industries",
+            "puuid": "47576c3e9a084774965ea0cedcab1cdc",
+            "uuid": "983fca3d4b2941b1849b2b47980fb938"
+          }
+        ],
+        [
+          "DB9",
+          1,
+          "DB9",
+          "DB9",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "9d590d474569457289de01363afe4b4a",
+            "uuid": "6549a78ed9b4499ebac2fa5e649d77b2"
+          }
+        ],
+        [
+          "JST-XH_2.54mm_2P",
+          2,
+          "JST-XH_2.54MM_2P",
+          "TEMP2,TEMP1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "1f6749ab885e42999676982d959cd228",
+            "uuid": "a81b7dd38cf04247a959751b4810938c"
+          }
+        ],
+        [
+          "POGO PIN WITH HOLE",
+          2,
+          "POGO ARRAY WITH 16MM HOLE",
+          "U2,U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "9a7fed7bbed94108b0f5fc6c6c685112",
+            "uuid": "a540216703be4d21bbba121087c5a68a"
+          }
+        ],
+        [
+          "JST-XH_2.54mm_6P",
+          1,
+          "JST-XH_2.54MM_6P",
+          "CAN1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "c6e455eae1174dffa1678fe6994d088c",
+            "uuid": "b6a49f98145e4b278d0501166fa2d0e2"
+          }
+        ],
+        [
+          "JST-XH_2.54mm_4P",
+          5,
+          "JST-XH_2.54MM_4P",
+          "HOT1,MOTOR1,MOTOR2,HOT2,S-L-F1-F2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "e35ab9f8e1244086b22d9d27e296292d",
+            "uuid": "b91e0fad60ea412b8fde212c54574afc"
+          }
+        ],
+        [
+          "usb micro breakout daughter board",
+          2,
+          "MICRO USB BREAK OUT DAUGHTER BOARD",
+          "USB1,USB2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "6f714e8d14c24064b77d4442fa4bcd24",
+            "uuid": "b756538d5bb946159b70a51be37a83b3"
+          }
+        ],
+        [
+          "4.7",
+          2,
+          "R0603",
+          "SDA,SCL",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "Header-Male-2.54_2x4",
+          1,
+          "HDR-TH_8P-P2.54-V-M-R2-C4-S2.54",
+          "P2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "Header2X4P 2.54mm",
+            "BOM_Supplier Part": "C58363",
+            "puuid": "2d9393260a4d4240be84610858eaad16",
+            "uuid": "dedd8d19d288cc4b434967eda0df580a"
+          }
+        ]
+      ],
+      "updateTime": 1608755096,
+      "createTime": 1608166200,
+      "histories": [],
+      "created_at": "2020-12-17 01:50:00",
+      "updated_at": "2020-12-23 21:24:56"
+    },
+    {
+      "uuid": "6fc7ee9b3cdd9bfd0dcc8213e5a5b9c1",
+      "puuid": "2e63a468ab2b4f3a8231f08473f142f5",
+      "title": "dual layer test",
+      "filename": "dual layer test.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c6e455eae1174dffa1678fe6994d088c": 1,
+        "9a7fed7bbed94108b0f5fc6c6c685112": 2,
+        "1f6749ab885e42999676982d959cd228": 2,
+        "e35ab9f8e1244086b22d9d27e296292d": 5,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 2
+      },
+      "BOM": [],
+      "updateTime": 1608847428,
+      "createTime": 1608253672,
+      "histories": [],
+      "created_at": "2020-12-18 02:07:52",
+      "updated_at": "2020-12-24 23:03:48"
+    },
+    {
+      "uuid": "2796dd5382f0a734b5988956b9cd0e3f",
+      "puuid": "2e63a468ab2b4f3a8231f08473f142f5",
+      "title": "aligment layer",
+      "filename": "aligment layer.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [],
+      "updateTime": 1608848754,
+      "createTime": 1608756849,
+      "histories": [],
+      "created_at": "2020-12-23 21:54:09",
+      "updated_at": "2020-12-24 23:25:54"
+    }
+  ],
+  "sort": [
+    "70be42d78a458c1a60d77dc45e5ddfbd",
+    "6a2b3522951559e6fba8335b139e8dc8"
+  ],
+  "title": "Swap Plate",
+  "foldername": "Swap Plate",
+  "schfilename": "Swap Plate.json",
+  "schfilemtime": 1608755096731
+}
