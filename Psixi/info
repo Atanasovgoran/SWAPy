@@ -1,0 +1,132 @@
+{
+  "uuid": "4239ae9bb3ae5f69332ed7e5935e5785",
+  "path": "Offline/swap-module",
+  "name": "swap-module",
+  "content": "",
+  "created_at": "2020-12-17 21:09:41",
+  "updated_at": "2020-12-24 23:01:41",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f18b75f35979feea5e8904b9bf87a15f",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a540216703be4d21bbba121087c5a68a": 1,
+        "a81b7dd38cf04247a959751b4810938c": 1,
+        "b91e0fad60ea412b8fde212c54574afc": 2,
+        "b756538d5bb946159b70a51be37a83b3": 1,
+        "e21fc5ecba204d739c3ba23a65942175": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "JST-XH_2.54mm_2P",
+          1,
+          "JST-XH_2.54MM_2P",
+          "TEMP1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "1f6749ab885e42999676982d959cd228",
+            "uuid": "a81b7dd38cf04247a959751b4810938c"
+          }
+        ],
+        [
+          "POGO PIN WITH HOLE",
+          1,
+          "POGO ARRAY WITH 16MM HOLE",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "9a7fed7bbed94108b0f5fc6c6c685112",
+            "uuid": "a540216703be4d21bbba121087c5a68a"
+          }
+        ],
+        [
+          "JST-XH_2.54mm_4P",
+          2,
+          "JST-XH_2.54MM_4P",
+          "HOT1,MOTOR1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "e35ab9f8e1244086b22d9d27e296292d",
+            "uuid": "b91e0fad60ea412b8fde212c54574afc"
+          }
+        ],
+        [
+          "usb micro breakout daughter board",
+          1,
+          "MICRO USB BREAK OUT DAUGHTER BOARD",
+          "USB1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "6f714e8d14c24064b77d4442fa4bcd24",
+            "uuid": "b756538d5bb946159b70a51be37a83b3"
+          }
+        ],
+        [
+          "JST 2.54-3P",
+          4,
+          "JST 2.54-3PIN",
+          "U2,U3,U4,U5",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "f67066bcf56049f4abc33d5a078cb558",
+            "uuid": "e21fc5ecba204d739c3ba23a65942175"
+          }
+        ]
+      ],
+      "updateTime": 1608689695,
+      "createTime": 1608235781,
+      "histories": [],
+      "created_at": "2020-12-17 21:09:41",
+      "updated_at": "2020-12-23 03:14:55"
+    },
+    {
+      "uuid": "60bf32291aff63bd26c03208bbb50724",
+      "puuid": "4239ae9bb3ae5f69332ed7e5935e5785",
+      "title": "test",
+      "filename": "test.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [],
+      "updateTime": 1608847301,
+      "createTime": 1608400649,
+      "histories": [],
+      "created_at": "2020-12-19 18:57:29",
+      "updated_at": "2020-12-24 23:01:41"
+    }
+  ],
+  "sort": [],
+  "title": "swap-module",
+  "foldername": "swap-module",
+  "schfilename": "swap-module.json",
+  "schfilemtime": 1608689695797
+}
