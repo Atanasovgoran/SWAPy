@@ -1,7 +1,7 @@
 # SWAPy
 Trying to make a standard for easily replaceable heads on 3D printers.
 
-
+The idea is to use pogo pins for the electrical interface. Magnets to hold it in place. And aligment pins and printed parts for alignment.
 
 Eros is the base plate that receives the pogo pins. It can also be used on the printer's mainboard side as a connection interface.
 Afroditi is not stricly necessary, but it would help with aligning the pogo pins.
